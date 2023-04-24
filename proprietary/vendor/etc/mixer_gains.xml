@@ -531,46 +531,46 @@
 	<!-- CP Call Output volume -->
 	<!-- NB volume -->
 	<path name="gain-incall_nb-handset">
-		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left AMP PCM Gain" value="16" />
+		<ctl name="Left Digital PCM Volume" value="825" />
 	</path>
 
 	<path name="gain-incall_nb-speaker">
-		<ctl name="Right AMP PCM Gain" value="17" />
-		<ctl name="Right Digital PCM Volume" value="817" />
+		<ctl name="Right AMP PCM Gain" value="26" />
+		<ctl name="Right Digital PCM Volume" value="842" />
 	</path>
 
 	<path name="gain-incall_nb-dual-speaker">
-		<ctl name="Left AMP PCM Gain" value="17" />
-		<ctl name="Left Digital PCM Volume" value="817" />
-		<ctl name="Right AMP PCM Gain" value="17" />
-		<ctl name="Right Digital PCM Volume" value="817" />
+		<ctl name="Left AMP PCM Gain" value="26" />
+		<ctl name="Left Digital PCM Volume" value="842" />
+		<ctl name="Right AMP PCM Gain" value="26" />
+		<ctl name="Right Digital PCM Volume" value="842" />
 	</path>
 
 	<path name="gain-incall_nb-dex-speaker">
-		<ctl name="Right AMP PCM Gain" value="17" />
-		<ctl name="Right Digital PCM Volume" value="817" />
+		<ctl name="Right AMP PCM Gain" value="26" />
+		<ctl name="Right Digital PCM Volume" value="842" />
 	</path>
 
 	<path name="gain-incall_nb-dex-dual-speaker">
-		<ctl name="Left AMP PCM Gain" value="17" />
-		<ctl name="Left Digital PCM Volume" value="817" />
-		<ctl name="Right AMP PCM Gain" value="17" />
-		<ctl name="Right Digital PCM Volume" value="817" />
+		<ctl name="Left AMP PCM Gain" value="26" />
+		<ctl name="Left Digital PCM Volume" value="842" />
+		<ctl name="Right AMP PCM Gain" value="26" />
+		<ctl name="Right Digital PCM Volume" value="842" />
 	</path>
 
 	<path name="gain-incall_nb-headset">
-		<ctl name="HPOUT2L Impedance Volume" value="106" />
-		<ctl name="HPOUT2R Impedance Volume" value="106" />
-		<ctl name="HPOUT2L Input 1 Volume" value="32" />
-		<ctl name="HPOUT2R Input 1 Volume" value="32" />
+		<ctl name="HPOUT2L Impedance Volume" value="128" />
+		<ctl name="HPOUT2R Impedance Volume" value="128" />
+		<ctl name="HPOUT2L Input 1 Volume" value="44" />
+		<ctl name="HPOUT2R Input 1 Volume" value="44" />
 	</path>
 
 	<path name="gain-incall_nb-headphone">
-		<ctl name="HPOUT2L Impedance Volume" value="106" />
-		<ctl name="HPOUT2R Impedance Volume" value="106" />
-		<ctl name="HPOUT2L Input 1 Volume" value="32" />
-		<ctl name="HPOUT2R Input 1 Volume" value="32" />
+		<ctl name="HPOUT2L Impedance Volume" value="120" />
+		<ctl name="HPOUT2R Impedance Volume" value="120" />
+		<ctl name="HPOUT2L Input 1 Volume" value="38" />
+		<ctl name="HPOUT2R Input 1 Volume" value="38" />
 	</path>
 
 	<path name="gain-incall_nb-bt-sco-headset">
@@ -584,39 +584,39 @@
 
 	<!-- WB volume -->
 	<path name="gain-incall_wb-handset">
-		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left AMP PCM Gain" value="12" />
+		<ctl name="Left Digital PCM Volume" value="824" />
 	</path>
 
 	<path name="gain-incall_wb-speaker">
-		<ctl name="Right AMP PCM Gain" value="17" />
-		<ctl name="Right Digital PCM Volume" value="817" />
+		<ctl name="Right AMP PCM Gain" value="26" />
+		<ctl name="Right Digital PCM Volume" value="842" />
 	</path>
 
 	<path name="gain-incall_wb-dual-speaker">
-		<ctl name="Left AMP PCM Gain" value="17" />
-		<ctl name="Left Digital PCM Volume" value="817" />
-		<ctl name="Right AMP PCM Gain" value="17" />
-		<ctl name="Right Digital PCM Volume" value="817" />
+		<ctl name="Left AMP PCM Gain" value="26" />
+		<ctl name="Left Digital PCM Volume" value="842" />
+		<ctl name="Right AMP PCM Gain" value="26" />
+		<ctl name="Right Digital PCM Volume" value="842" />
 	</path>
 
 	<path name="gain-incall_wb-dex-speaker">
-		<ctl name="Right AMP PCM Gain" value="17" />
-		<ctl name="Right Digital PCM Volume" value="817" />
+		<ctl name="Right AMP PCM Gain" value="26" />
+		<ctl name="Right Digital PCM Volume" value="842" />
 	</path>
 
 	<path name="gain-incall_wb-dex-dual-speaker">
-		<ctl name="Left AMP PCM Gain" value="17" />
-		<ctl name="Left Digital PCM Volume" value="817" />
-		<ctl name="Right AMP PCM Gain" value="17" />
-		<ctl name="Right Digital PCM Volume" value="817" />
+		<ctl name="Left AMP PCM Gain" value="26" />
+		<ctl name="Left Digital PCM Volume" value="842" />
+		<ctl name="Right AMP PCM Gain" value="26" />
+		<ctl name="Right Digital PCM Volume" value="842" />
 	</path>
 
 	<path name="gain-incall_wb-headset">
-		<ctl name="HPOUT2L Impedance Volume" value="112" />
-		<ctl name="HPOUT2R Impedance Volume" value="112" />
-		<ctl name="HPOUT2L Input 1 Volume" value="32" />
-		<ctl name="HPOUT2R Input 1 Volume" value="32" />
+		<ctl name="HPOUT2L Impedance Volume" value="132" />
+		<ctl name="HPOUT2R Impedance Volume" value="132" />
+		<ctl name="HPOUT2L Input 1 Volume" value="40" />
+		<ctl name="HPOUT2R Input 1 Volume" value="40" />
 	</path>
 
 	<path name="gain-incall_wb-headphone">
